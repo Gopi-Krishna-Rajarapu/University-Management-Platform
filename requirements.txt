@@ -1,0 +1,5 @@
+Python
+Streamlit
+Installation
+Install the required dependency:
+pip install -r requirements.txt Or install Streamlit directly: pip install streamlit
